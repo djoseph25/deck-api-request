@@ -1,0 +1,16 @@
+.Deck {
+	color: white;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-family: 'Architects Daughter', cursive;
+}
+.button {
+	margin-top: 35px;
+	font-size: 19px;
+	font-family: 'Architects Daughter', cursive;
+	text-transform: uppercase;
+}
+
+.button:hover {
+	background-color: cyan;
+}
